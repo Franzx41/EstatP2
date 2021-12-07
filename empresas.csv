@@ -1,0 +1,107 @@
+Empresa,C_juridico,Porte_Empresa,N_Empregado,Faturamento_2018,Faturamento_2019,Tempo_Existencia,Cidade,Setor,Regiao
+1,Ltda,Pequena,9,64302,74392,15,São Paulo,Embalagens ,sudeste
+2,Ltda,Média,31,177330,251488,5,Rio de Janeiro,Embalagens ,sudeste
+3,Ltda,Grande,119,449546,369409,21,Salvador,Outros ,nordeste
+4,Ltda,Média,35,200223,230843,12,Salvador,Embalagens ,nordeste
+5,Ltda,Pequena,6,86559,98436,18,Salvador,Manilhas. canos e conexões ,nordeste
+6,Ltda,Grande,46,413846,408905,25,Salvador,Manilhas. canos e conexões ,nordeste
+7,Individual,Média,23,208081,226582,12,São Paulo,Domiciliar e pessoal,sudeste
+8,Ltda,Grande,162,433488,395680,19,Salvador,Industrial,nordeste
+9,Individual,Pequena,7,98232,120310,24,Porto Alegre,Outros ,sul
+10,Ltda,Pequena,6,174097,121765,9,Rio de Janeiro,Embalagens ,sudeste
+11,Ltda,Média,34,246168,191222,35,Salvador,Manilhas. canos e conexões ,nordeste
+12,Ltda,Grande,243,376339,453692,3,São Paulo,Manilhas. canos e conexões ,sudeste
+13,Ltda,Média,35,182871,255486,37,Rio de Janeiro,Domiciliar e pessoal,sudeste
+14,Individual,Pequena,7,136102,197355,3,Salvador,Embalagens ,nordeste
+15,Ltda,Grande,130,386430,447856,42,Salvador,Laminados plásticos,nordeste
+16,Individual,Pequena,8,147440,211125,4,Salvador,Domiciliar e pessoal,nordeste
+17,Ltda,Grande,194,446120,398433,5,São Paulo,Laminados plásticos,sudeste
+18,Ltda,Média,35,210984,235375,15,São Paulo,Manilhas. canos e conexões ,sudeste
+19,Ltda,Média,13,238367,222794,18,Curitiba,Domiciliar e pessoal,sul
+20,Ltda,Grande,225,430256,425462,23,São Paulo,Laminados plásticos,sudeste
+21,Ltda,Pequena,3,170758,190567,29,São Paulo,Manilhas. canos e conexões ,sudeste
+22,Ltda,Grande,145,410329,456073,18,São Paulo,Embalagens ,sudeste
+23,Ltda,Média,11,236743,241167,4,São Paulo,Laminados plásticos,sudeste
+24,Individual,Pequena,7,174148,188445,5,Rio de Janeiro,Outros ,sudeste
+25,Ltda,Pequena,2,182319,190834,27,São Paulo,Embalagens ,sudeste
+26,Ltda,Grande,146,463107,405445,23,Curitiba,Embalagens ,sul
+27,Ltda,Média,39,252804,232567,22,Salvador,Outros ,nordeste
+28,Individual,Pequena,4,161013,232450,4,Salvador,Embalagens ,nordeste
+29,Ltda,Grande,177,415383,455877,18,Rio de Janeiro,Embalagens ,sudeste
+30,Ltda,Média,34,233940,256063,3,Salvador,Laminados plásticos,nordeste
+31,Ltda,Grande,174,434627,474724,16,Salvador,Domiciliar e pessoal,nordeste
+32,Ltda,Média,30,234434,256733,30,Belo Horizonte,Laminados plásticos,sudeste
+33,Ltda,Média,39,245942,255101,10,Salvador,Domiciliar e pessoal,nordeste
+34,Ltda,Grande,167,425721,492244,3,São Paulo,Outros ,sudeste
+35,Individual,Média,43,209321,317034,14,São Paulo,Embalagens ,sudeste
+36,Ltda,Grande,122,453339,478053,14,Belo Horizonte,Embalagens ,sudeste
+37,Ltda,Média,32,229458,307489,19,Salvador,Embalagens ,nordeste
+38,Individual,Grande,91,472682,475937,12,São Paulo,Outros ,sudeste
+39,Individual,Média,29,291238,253350,28,Belo Horizonte,Embalagens ,sudeste
+40,Ltda,Grande,220,497160,457824,10,Salvador,Manilhas. canos e conexões ,nordeste
+41,Ltda,Média,44,283963,260987,24,Salvador,Domiciliar e pessoal,nordeste
+42,Ltda,Grande,206,483025,488012,4,São Paulo,Industrial,sudeste
+43,Ltda,Grande,206,466743,516386,10,Salvador,Industrial,nordeste
+44,Individual,Média,50,291847,255665,19,Belo Horizonte,Manilhas. canos e conexões ,sudeste
+45,Individual,Média,11,243888,324430,28,Belo Horizonte,Manilhas. canos e conexões ,sudeste
+46,Ltda,Média,30,283705,288154,10,Porto Alegre,Domiciliar e pessoal,sul
+47,Ltda,Média,18,271651,300492,11,Salvador,Embalagens ,nordeste
+48,Ltda,Média,23,274984,300945,19,Porto Alegre,Embalagens ,sul
+49,Ltda,Média,22,273963,307433,21,São Paulo,Industrial,sudeste
+50,Ltda,Média,38,267098,318066,8,São Paulo,Industrial,sudeste
+51,Ltda,Média,23,321492,264055,3,São Paulo,Laminados plásticos,sudeste
+52,Individual,Média,42,307483,281512,12,São Paulo,Domiciliar e pessoal,sudeste
+53,Ltda,Média,32,316176,276904,27,Curitiba,Industrial,sul
+54,Ltda,Média,27,360921,232339,8,São Paulo,Industrial,sudeste
+55,Ltda,Média,30,348566,249779,29,Salvador,Laminados plásticos,nordeste
+56,Ltda,Média,44,326889,273815,16,Belo Horizonte,Embalagens ,sudeste
+57,Ltda,Média,36,272753,331536,10,Rio de Janeiro,Embalagens ,sudeste
+58,Ltda,Média,42,259690,350229,39,Rio de Janeiro,Embalagens ,sudeste
+59,Ltda,Média,35,326039,284077,25,Rio de Janeiro,Embalagens ,sudeste
+60,Ltda,Média,38,272090,345876,20,São Paulo,Outros ,sudeste
+61,Ltda,Média,24,289796,328605,15,Curitiba,Laminados plásticos,sul
+62,Individual,Média,28,260877,359387,3,Porto Alegre,Industrial,sul
+63,Ltda,Média,17,264334,356993,22,Belo Horizonte,Domiciliar e pessoal,sudeste
+64,Ltda,Média,25,320095,315930,29,São Paulo,Domiciliar e pessoal,sudeste
+65,Ltda,Média,23,313234,326302,4,Belo Horizonte,Domiciliar e pessoal,sudeste
+66,Individual,Média,35,348585,294432,27,Salvador,Domiciliar e pessoal,nordeste
+67,Individual,Média,47,356503,305449,3,Rio de Janeiro,Outros ,sudeste
+68,Individual,Média,23,299018,366239,7,Rio de Janeiro,Domiciliar e pessoal,sudeste
+69,Individual,Média,21,370828,301754,25,Belo Horizonte,Industrial,sudeste
+70,Ltda,Média,60,383832,290869,26,Salvador,Industrial,nordeste
+71,Ltda,Média,20,315350,360052,15,Salvador,Industrial,nordeste
+72,Ltda,Média,17,368456,307607,30,São Paulo,Laminados plásticos,sudeste
+73,Ltda,Média,56,335385,340748,9,Curitiba,Embalagens ,sul
+74,Ltda,Média,46,310372,370264,5,São Paulo,Embalagens ,sudeste
+75,Ltda,Média,41,319726,370787,15,Porto Alegre,Laminados plásticos,sul
+76,Ltda,Média,24,3605.93,349335,21,Rio de Janeiro,Laminados plásticos,sudeste
+77,Ltda,Média,28,348508,362067,2,Porto Alegre,Embalagens ,sul
+78,Ltda,Média,30,386554,328146,2,Salvador,Embalagens ,nordeste
+79,Ltda,Média,46,344680,375665,15,Rio de Janeiro,Embalagens ,sudeste
+80,Ltda,Média,21,368768,351818,18,Salvador,Outros ,nordeste
+81,Individual,Média,46,398047,326364,9,Porto Alegre,Domiciliar e pessoal,sul
+82,Ltda,Média,24,295054,432277,34,Porto Alegre,Industrial,sul
+83,Ltda,Média,16,400795,327650,17,Salvador,Industrial,nordeste
+84,Ltda,Média,29,367105,362665,14,São Paulo,Laminados plásticos,sudeste
+85,Ltda,Média,27,413024,320310,8,São Paulo,Industrial,sudeste
+86,Ltda,Média,53,383459,352395,5,Salvador,Embalagens ,nordeste
+87,Ltda,Média,45,321329,415487,10,São Paulo,Laminados plásticos,sudeste
+88,Ltda,Média,31,407572,330483,25,São Paulo,Laminados plásticos,sudeste
+89,Ltda,Média,44,346294,398469,17,Rio de Janeiro,Embalagens ,sudeste
+90,Ltda,Média,40,327276,420185,29,Rio de Janeiro,Embalagens ,sudeste
+91,Ltda,Média,34,327275,430286,10,São Paulo,Outros ,sudeste
+92,Individual,Média,37,353203,407508,22,Salvador,Industrial,nordeste
+93,Ltda,Média,20,434709,339250,11,Rio de Janeiro,Industrial,sudeste
+94,Ltda,Média,34,434240,347966,8,Belo Horizonte,Outros ,sudeste
+95,Ltda,Média,21,398195,388490,19,São Paulo,Domiciliar e pessoal,sudeste
+96,Ltda,Média,34,410251,379857,20,Rio de Janeiro,Embalagens ,sudeste
+97,Ltda,Média,32,400894,389499,29,Salvador,Outros ,nordeste
+98,Individual,Grande,206,531233,472608,24,São Paulo,Industrial,sudeste
+99,Individual,Grande,176,526883,550845,4,São Paulo,Laminados plásticos,sudeste
+100,Individual,Grande,320,569711,521585,3,Salvador,Manilhas. canos e conexões ,nordeste
+101,Ltda,Grande,230,503201,560760,6,Rio de Janeiro,Outros ,sudeste
+102,Ltda,Grande,189,569803,589700,5,Belo Horizonte,Manilhas. canos e conexões ,sudeste
+103,Individual,Pequena,15,238903,257606,9,Belo Horizonte,Laminados plásticos,sudeste
+104,Individual,Pequena,10,197500,213456,4,Belo Horizonte,Embalagens ,sudeste
+105,Individual,Pequena,13,235643,243221,7,Belo Horizonte,Embalagens ,sudeste
+102,Ltda,Grande,200,674067,685430,8,Rio de Janeiro,Manilhas. canos e conexões ,sudeste
